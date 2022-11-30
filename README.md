@@ -33,9 +33,9 @@ UI for PokeGo: https://www.figma.com/file/38rCeox7mdpcEekEmcRJLu/PokeGo-UI-Flutt
   
    1. Add Flutter to your machine
   
-   2. Open this project folder with Terminal/CMD and run flutter packages get
+   2. Open this project folder with Terminal/CMD and run 'flutter packages get'
   
-   3. Run flutter run to build and run the debug app on your emulator/phone
+   3. Run 'flutter run' to build and run the debug app on your emulator/phone
    
 </details>
 
