@@ -13,7 +13,7 @@ PokeGo is created and designed to catalog and provide information regarding the 
   - [Members:](#members)
 
 ## User Interface
-UI for our application: https://www.figma.com/file/38rCeox7mdpcEekEmcRJLu/PokeGo-UI-Flutter-App?node-id=0%3A1&t=uVw38T0isdKulvIK-0
+UI for PokeGo: https://www.figma.com/file/38rCeox7mdpcEekEmcRJLu/PokeGo-UI-Flutter-App?node-id=0%3A1&t=uVw38T0isdKulvIK-0
 
 
 ## Features
